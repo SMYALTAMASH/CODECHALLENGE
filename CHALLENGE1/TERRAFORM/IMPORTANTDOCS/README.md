@@ -58,3 +58,9 @@ terraform destroy -var-file="../variables/dev.tfvars" -state=dev.tfstate
 * main folder contains the generic template with modules which will call different resources picking variables specific to each environment.
 * modules folder contains the services and its definition which can be extended pretty easily.
 * variables folder contains environment specific files.
+
+# Things that can be better are:-
+
+* Upgraded stack to latest version which is 1.0.9
+* Have workspace use
+* Have state locks and S3 state.
