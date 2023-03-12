@@ -28,3 +28,5 @@
 | **Vendor Lock-in** | Less locked into a single cloud provider | Locked into AWS | Locked into AWS |
 | **Community Support** | Large and active community | Large and active community | Large and active community |
 | **Infrastructure as Code Maturity** | Mature product with many features and services | Mature product with many features and services | Relatively new, but rapidly growing with a focus on serverless projects |
+
+# Note: There are many combinations of resources/IAC tools/Cloud Providers which makes the stuff complex until the resources are freezed. If there was enough time i woupld have loved to talk about Serverless Framework.
