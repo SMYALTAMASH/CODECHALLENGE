@@ -5,6 +5,10 @@
 
 # Challenge1: https://github.com/SMYALTAMASH/CODECHALLENGE/tree/master/CHALLENGE1/TERRAFORM/IMPORTANTDOCS
 
+![alt Architecture](https://github.com/SMYALTAMASH/CODECHALLENGE/blob/master/CHALLENGE1/TERRAFORM/IMPORTANTDOCS/3TIER.png)
+
+![alt Network](https://github.com/SMYALTAMASH/CODECHALLENGE/blob/master/CHALLENGE1/TERRAFORM/IMPORTANTDOCS/network.jpg)
+
 # Challenge1: https://github.com/SMYALTAMASH/CODECHALLENGE/tree/master/CHALLENGE1/CLOUDFORMATION
 
 # Challenge2: https://github.com/SMYALTAMASH/CODECHALLENGE/tree/master/CHALLENGE2
