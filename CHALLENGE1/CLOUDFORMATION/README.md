@@ -9,6 +9,7 @@
 * Store the cloudofrmation template in S3 by enabling versioning or in GIT.
 * Create a service catalogue to have an approved stack and getting it deployed by approved users and to distribute it to clients.
 * The tree structure which can be best for the cloudformation stack with local stack is 
+* <b> Few Infra changes are required like use Aurora cluster to have 3x better performance and don't use a bastion amd use session manager. Add backupos and enable lifecycle management to existing stack.</b>
 
 ```
 .
